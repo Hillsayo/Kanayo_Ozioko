@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ozioko Kanayo
-- 👀 I’m Data annalyst who enjoys generating insights from data.
+- 👀 I’m Data analyst who enjoys generating insights from data.
 - 🌱 I’m currently learning data storytelling.
 - 💞️ I’m looking to collaborate on data analysis project; voluteer or otherwise 
 - 📫 we can connect on X https://x.com/kanayo_007?s=21
